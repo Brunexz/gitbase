@@ -47,8 +47,6 @@ def is_night():
     if current_time >= sunset or current_time <= sunrise:
         return True
 
-pro
-
 
 while True:
     # ISS is close to my current position,
